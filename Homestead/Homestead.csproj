@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Homestead</PackageId>
+    <Description>CMS based on ASP.NET Core</Description>
+    <Authors>Marc Halbersma</Authors>
+    <Version>0.0.1</Version>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
